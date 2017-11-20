@@ -105,8 +105,8 @@ typedef void(^ASDownloadStateBlock)(ASDownloadState state);
     }
 ```
 ## 联系我
-```
+
 *  QQ:469091701
 *  e-mail:meet_ly@163.com
-```
+
 # 更详细的使用 请参考DEMO，希望能帮助到大家
